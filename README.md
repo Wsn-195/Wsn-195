@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Willson
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development mostlty I do FrontEnd part of app .  
 - 🌱 I’m currently learning to solve business problems by mapping my web devlopment knowledge to problem scenario.
-- 💞️ I’m always up to collaborate on new ideas,Projects.
+- 💞️ I’m always open to collaborate on new ideas,Projects.
 
 
 <!---
